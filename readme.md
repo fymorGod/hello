@@ -1,6 +1,6 @@
-## Estudando Go lang - Formação Go
+# Estudando Go lang - Formação Go
 
-# Estrutura condicional do Go
+## Estrutura condicional do Go
 
 		if comando == 1 {
 			fmt.Println("Tela de Monitoramento")
