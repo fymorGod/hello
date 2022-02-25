@@ -96,7 +96,7 @@ func lerSitesDoArquivo() []string {
 		}
 
 	}
-
+	arquivo.Close()
 	return sites
 }
 
